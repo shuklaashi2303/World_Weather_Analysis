@@ -1,0 +1,43 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+21,Zhigansk,RU,10.35,overcast clouds,66.7697,123.3711,Gostinichnyy Kompleks Aylgy
+54,Kautokeino,NO,21.79,overcast clouds,69.0125,23.0412,Thon Hotel Kautokeino
+55,Maniitsoq,GL,28.08,overcast clouds,65.4167,-52.9,Hotel Heilmann Lyberth
+75,College,US,18.0,scattered clouds,64.8569,-147.8028,Pike's Waterfront Lodge
+105,Yellowknife,CA,19.4,snow,62.456,-114.3525,The Explorer Hotel
+130,Skelleftea,SE,28.4,few clouds,64.7507,20.9528,Quality Hotel Skellefteå Stadshotell
+132,Yar-Sale,RU,10.33,overcast clouds,66.8333,70.8333,Yalemd
+154,Asau,RO,28.4,clear sky,46.4333,26.4,Casa Mika Ciobanus
+164,Fagernes,NO,12.96,broken clouds,60.9858,9.2324,Scandic Valdres
+174,Tasiilaq,GL,15.8,clear sky,65.6145,-37.6368,The Red House
+177,Vardo,NO,21.2,clear sky,70.3705,31.1107,Vardø Hotel AS
+184,Lasa,IT,27.0,scattered clouds,46.6166,10.7002,Pension Feldgärtenhof
+199,Longyearbyen,SJ,23.0,light snow,78.2186,15.6401,"Radisson Blu Polar Hotel, Spitsbergen"
+207,Fairbanks,US,19.0,clear sky,64.8378,-147.7164,Westmark Fairbanks Hotel & Conference Center
+208,Ostersund,SE,24.8,few clouds,63.1792,14.6357,Best Western Hotel Gamla Teatern
+266,Ayan,RU,24.53,light snow,56.45,138.1667,Gostinitsa
+271,Ilulissat,GL,12.2,broken clouds,69.2167,-51.1,Hotel Arctic
+316,Mehamn,NO,25.66,scattered clouds,71.0357,27.8492,Mehamn Arctic Hotel AS
+322,Norman Wells,CA,10.4,few clouds,65.282,-126.8329,Heritage Hotel
+328,Ilmajoki,FI,25.0,clear sky,62.7333,22.5667,KesäHostelli Ilmajoki
+333,Husavik,IS,23.0,light snow,66.0449,-17.3389,Bjarnabúð
+341,Tommot,RU,18.55,overcast clouds,58.9564,126.2925,Gostinitsa Tommot
+367,Magadan,RU,20.01,few clouds,59.5667,150.8,Magadan hotel
+379,Tahe,CN,28.92,scattered clouds,52.3333,124.7333,塔河宾馆
+421,Tornio,FI,21.2,clear sky,65.8481,24.1466,Park Hotel Tornio
+434,Kemijarvi,FI,20.5,scattered clouds,66.7131,27.4306,Hotelli Kemijärvi
+468,Paamiut,GL,29.35,overcast clouds,61.994,-49.6678,Yeet Hotel
+484,Hvolsvollur,IS,25.0,snow,63.7533,-20.2243,Hotel Rangá
+511,Olafsvik,IS,27.64,overcast clouds,64.8945,-23.7142,Hotel Olafsvik
+522,Zasheyek,RU,28.99,broken clouds,67.4066,32.5499,Khostiel
+527,Hofn,IS,27.1,light snow,64.2539,-15.2082,Hótel Höfn
+528,Alakurtti,RU,30.0,light snow,66.9672,30.3491,Agroturystyka Gientosław
+546,Mnogovershinnyy,RU,25.79,overcast clouds,53.9353,139.9242,Kvartsevaya Sopka
+554,Valkeakoski,FI,30.0,clear sky,61.2642,24.0312,Hotel Waltikka
+579,Harnosand,SE,28.4,clear sky,62.6323,17.9379,First Hotel Stadt
+596,Vuktyl,RU,28.4,overcast clouds,63.8567,57.3094,Mini-Hotel Lokomotiv
+609,Saint-Francois,FR,27.0,clear sky,46.4154,3.9054,Manoir Du Bonheur
+616,Ulvik,NO,23.83,overcast clouds,60.5672,6.9187,Ulvik Hotel
+632,Ust-Nera,RU,10.56,overcast clouds,64.5667,143.2,Hotel Ust-Nera
+645,Tarko-Sale,RU,23.86,overcast clouds,64.9225,77.785,Yubileynaya
+654,Blagoveshchensk,RU,28.4,clear sky,50.2667,127.5333,Green Hostels
+675,Vilyuysk,RU,17.44,light snow,63.7553,121.6247,Gostinitsa Viliuisk
